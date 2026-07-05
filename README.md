@@ -33,7 +33,13 @@ This project presents an interactive sales dashboard built in Microsoft Excel us
 
 ## 🖼 Dashboard Preview
 
-![Dashboard](dashboard_preview.png)
+![Dashboard](dashboard_preview.png/Screenshot 2026-07-05 202240.p)
+
+![Dashboard](dashboard_preview.png/Screenshot 2026-07-05 202320.p)
+
+![Dashboard](dashboard_preview.png/Screenshot 2026-07-05 202255.p)
+
+![Dashboard](dashboard_preview.png/Screenshot 2026-07-05 202444.p)
 
 ## 💡 Key Insights
 
