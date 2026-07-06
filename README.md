@@ -45,3 +45,9 @@ Global Superstore Dataset
 ## 👨‍💻 Author
 
 **Ahmar Ali**
+
+## Connect With Me
+
+💼 Fiverr:(https://www.fiverr.com/users/analyticalink)
+💻 GitHub: (https://github.com/aliahmar936-pixel)
+🔗 LinkedIn: (https://www.linkedin.com/in/ahmar-ali-329438356?utm_source=share_via&utm_content=profile&utm_medium=member_android)
